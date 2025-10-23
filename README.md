@@ -6,3 +6,5 @@
 https://huggingface.co/datasets/T1g3rGE/so100_shaver_insert
 
 https://huggingface.co/datasets/T1g3rGE/so100_pick_doll
+
+https://huggingface.co/datasets/T1g3rGE/so100_pick_doll2
