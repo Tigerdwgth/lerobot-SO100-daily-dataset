@@ -14,5 +14,5 @@ https://huggingface.co/datasets/T1g3rGE/so100_pick_doll2
 
 #  Acknowledgements
 
-This dataset is supported in part by Shenzhen Science and Technology Program
+This dataset is created by SIGS MMlab and supported in part by Shenzhen Science and Technology Program
 (Grant No. JCYJ20220818101014030 and KJZD20240903102300001).
