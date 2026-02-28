@@ -1,7 +1,10 @@
-<img width="1832" height="968" alt="image" src="https://github.com/user-attachments/assets/3200e940-2979-422d-8062-dc18e31d10b3" /># Lerobot SO100 daily dataset
-
+# Lerobot SO100 daily dataset
 
 # single arm dataset with wrist and head camera
+
+https://huggingface.co/datasets/T1g3rGE/so100_pickplace_pnp
+
+https://huggingface.co/datasets/T1g3rGE/so100_pickplace_small_20250407_171912
 
 https://huggingface.co/datasets/T1g3rGE/so100_shaver_insert
 
